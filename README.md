@@ -1,7 +1,5 @@
 # Scroll Saw Project
 
-![Scroll Saw](![scroll saw](https://github.com/user-attachments/assets/3a5cac80-1ed6-4a39-a511-6c9dd5b409dd)
-
 ## 📌 Overview
 This project involves designing and constructing a **Scroll Saw** as part of the semester project. A scroll saw is a precision cutting tool used for intricate and detailed wood or metalwork. The project includes mechanical design, motor selection, and fabrication. The goal was to create a functional, cost-effective, and efficient cutting tool that could be used for various DIY and professional applications.
 
